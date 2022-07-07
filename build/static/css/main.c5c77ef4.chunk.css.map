@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/stats/calendar.css"],"names":[],"mappings":"AAAA,qBACI,sBAAuB,CACvB,UACJ","file":"main.c5c77ef4.chunk.css","sourcesContent":[".calendar__day__used {\n    background-color: green;\n    color: white;\n}"]}
