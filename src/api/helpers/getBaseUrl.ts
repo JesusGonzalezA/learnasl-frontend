@@ -1,6 +1,6 @@
 
 const getBaseUrl = () : string | undefined => {
-    return 'https://learnasl-api.azurewebsites.net/api'
+    return process.env.REACT_APP_BASE_URL
 }
 
 export default getBaseUrl
